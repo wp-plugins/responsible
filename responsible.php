@@ -4,7 +4,7 @@ Plugin Name: Responsible
 Plugin URI: https://github.com/cftp/responsible
 Description: Viewport resizing comes to the WordPress admin bar
 Version: 1.1
-Author: Code For The People
+Author: Scott Evans (Code For The People)
 Author URI: http://codeforthepeople.com
 Text Domain: responsible
 Domain Path: /assets/languages/
